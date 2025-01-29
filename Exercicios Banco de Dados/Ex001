@@ -1,7 +1,9 @@
 Banco de Dados de uma Oficina:
 
 Clientes{
-    
+    Email
+    Numero para contato
+    CPF
 }
 
  Estoque de Material {
@@ -43,6 +45,23 @@ Estoque de Oleo{
 
 Banco de Dados de Escola:
 
+Alunos{
+    Nome
+    Idade
+    Serie
+    CPF
+    Numero da Matricula
+}
+
+Clientes{
+    Numero de contato
+    Aluno
+    Email
+    Senha
+    Usuario
+    CPF
+}
+
 Funcionario {
     Salario
     Função
@@ -69,5 +88,73 @@ Materias{
     Historia
     Ed Fisica
     Fisica
+}
+
+Banco de Dados de um Banco:
+
+Clientes{
+    Conta Corrente
+    Agencia
+    Banco
+    Senha
+    Usuario
+}
+
+Banco de Horas{
+    Horas Trabalhadas
+    Horas Negativa
+    Horas Positivas
+}
+
+Funcionario {
+    Salario
+    Função
+}
+
+Dinheiro{
+    Saques
+    Depositos
+    Extrato
+    Cartão
+}
+
+Pix{
+    Chaves Pix
+    Transferencias Pix
+    Ted Pix
+    Extrato Pix
+}
+
+Banco de dados de Restaurante:
+
+Clientes{
+    Entrada de Clientes
+    FeedBack
+}
+
+Funcionario {
+    Salario
+    Função
+}
+
+Faturamento{
+    Formas de Pagamentos
+    Pagamentos de Materias
+    Pagamentos de Funcionarios
+}
+
+Banco de Horas{
+    Horas Trabalhadas
+    Horas Negativa
+    Horas Positivas
+}
+
+Estoque{
+    Refrigerante
+    Comida
+    Plasticos
+    Molhos
+    Carnes
+    Cerveja
 }
 
