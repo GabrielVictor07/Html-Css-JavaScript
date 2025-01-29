@@ -1,0 +1,73 @@
+Banco de Dados de uma Oficina:
+
+Clientes{
+    
+}
+
+ Estoque de Material {
+    Chave de Roda
+    Parafuso
+    Rosca    
+}
+
+Faturamento{
+    Formas de Pagamentos
+    Pagamentos Gerais
+    Pagamentos de Materias
+    Pagamentos de Funcionarios
+}
+
+Banco de Horas{
+    Horas Trabalhadas
+    Horas Negativa
+    Horas Positivas
+}
+
+Funcionario {
+    Salario
+    Função
+}
+
+Pneus {
+    Tamanho do Pneu
+    Tamanho do Aro
+    Que tipo de Pneu
+    Marca do Pneu
+}
+
+Estoque de Oleo{
+    Oleo 5W30
+    Oleo 10W40
+    Oleo 15W30
+}
+
+Banco de Dados de Escola:
+
+Funcionario {
+    Salario
+    Função
+}
+
+Faturamento{
+    Formas de Pagamentos
+    Pagamentos de Materias
+    Pagamentos de Funcionarios
+}
+
+Banco de Horas{
+    Horas Trabalhadas
+    Horas Negativa
+    Horas Positivas
+}
+
+turmas
+
+Materias{
+    Matematica
+    Portugues
+    Inglês
+    Historia
+    Ed Fisica
+    Fisica
+}
+
