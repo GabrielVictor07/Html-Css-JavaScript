@@ -1,0 +1,1 @@
+document.getElementById("text").innerHTML = "Usando InnerHTML" + "  BRASIL" +  (5+(2*10)/2);
